@@ -1,0 +1,5 @@
+[{a:0},"Esc\n\n\n\n~\n`",{a:4},"!\n1\n\n\nF1","@\n2\n\n\nF2","#\n3\n\n\nF3","$\n4\n\n\nF4","%\n5\n\n\nF5","^\n6\n\n\nF6","&\n7\n\n\nF7","*\n8\n\n\nF8","(\n9\n\n\nF9",")\n0\n\n\nF10","_\n-\n\n\nF11","+\n=\n\n\nF12"],
+[{w:1.5},"Tab","Q","W","E\n\n\n\nEnd","R","T\n.\n\n\nHome","Y\n\n\n\nCalc","U\n\n\n\nPgUp","I\n\n\n\nIns","O\n\n\n\nEnter","P\n\n\n\nBS","{\n[\n\n\nScrLk",{a:0},"}\n]\n\n\nPus\nBrk"],
+[{a:4,w:1.75},"Ctrl","A","S",{a:0},"D\n\n\n\nPgDn",{a:4},"F","G",{a:0},"H\n\n\n\n←","J\n\n\n\n↓","K\n\n\n\n↑","L\n\n\n\n→",":\n;\n\n\nDelete",{a:4},"\"\n'","|\n\\"],
+[{w:2.25},"Shift","Z",{a:0},"X\n\n\n\nApp",{a:4},"C","V","B",{a:0},"N\n\n\n\nVolDn","M\n\n\n\nMute","<\n,\n\n\nVolUp",{a:4},">\n.","?\n/",{w:1.25},"RShift"],
+[{w:1.25},"Win",{x:1.25,w:1.25},"Alt",{a:0,w:6.25},"Space\n\n\n\n\n\n\n\n\n\n\nPsc",{x:1.25,a:4,w:2.25},"Fn"]
